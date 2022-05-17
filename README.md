@@ -15,4 +15,7 @@ This is the Impact Token Contract.
 ## Mint
 
     On line 15,
-    mint function takes token amount as parameter. It will mint that amount of tokens to function caller account by considering maximum supply should not be exceeded. This function has a modifer of onlyOwner. Only the owner can call this function. Remove this modifier for public calling.
+    mint function takes token amount as parameter. It will mint that amount of tokens to function
+    caller account by considering maximum supply should not be exceeded. This function has a
+    modifer of onlyOwner. Only the owner can call this function. Remove this modifier
+    for public calling.
